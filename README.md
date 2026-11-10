@@ -30,7 +30,12 @@ Projects are being added here as they're completed. Each one comes with a README
 
 | Project | Category | Status |
 | --- | --- | --- |
-| *First project coming soon* | AI automation | 🛠️ In progress |
+| [**Customer Support KPI Dashboard**](https://github.com/Pisti2709/support-kpi-dashboard) | Data & reporting | ✅ Done |
+| *AI workflow project* | AI automation | 🛠️ Next |
+
+[![Customer Support KPI Dashboard](https://raw.githubusercontent.com/Pisti2709/support-kpi-dashboard/main/docs/preview.png)](https://github.com/Pisti2709/support-kpi-dashboard)
+
+*Excel dashboard that turns a help-desk ticket export into SLA, CSAT and response-time KPIs. 100% formulas, checked formula by formula.*
 
 ## Background
 
