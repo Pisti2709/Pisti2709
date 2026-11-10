@@ -39,13 +39,13 @@ Projects are being added here as they're completed. Each one comes with a README
 
 ## Background
 
-- **Customer Engagement Consultant**, Meraki Creativity · 2021 – present
-- **Community Engagement & Event Lead**, IVY: The Social University · 2017 – 2021
-- **Customer Support Specialist**, GoButler (Angel.ai) · 2015 – 2017
+- **Customer Excellence Consultant**, Meraki Creativity · 2021 – present
+- **Community Engagement Lead**, IVY: The Social University · 2017 – 2021
+- **Customer Success Manager**, GoButler (Angel.ai) · 2015 – 2017
 - **Market Research Intern**, Lucintel · 2012 – 2013
 
 **Tools:** Claude · Claude Code · Salesforce · Zendesk · Excel · Google Workspace · SQL basics · GitHub
 
 ## Let's work together
 
-Message me on Upwork *(profile link coming soon)* or connect on LinkedIn.
+Message me on Upwork *(profile link coming soon)* or connect on [LinkedIn](https://www.linkedin.com/in/plamen-hristov-076969b6).
