@@ -31,11 +31,13 @@ Projects are being added here as they're completed. Each one comes with a README
 | Project | Category | Status |
 | --- | --- | --- |
 | [**Customer Support KPI Dashboard**](https://github.com/Pisti2709/support-kpi-dashboard) | Data & reporting | ✅ Done |
-| *AI workflow project* | AI automation | 🛠️ Next |
+| [**AI Support Inbox Triage**](https://github.com/Pisti2709/support-inbox-triage) | AI automation (Claude) | ✅ Done |
 
 [![Customer Support KPI Dashboard](https://raw.githubusercontent.com/Pisti2709/support-kpi-dashboard/main/docs/preview.png)](https://github.com/Pisti2709/support-kpi-dashboard)
 
 *Excel dashboard that turns a help-desk ticket export into SLA, CSAT and response-time KPIs. 100% formulas, checked formula by formula.*
+
+**[AI Support Inbox Triage](https://github.com/Pisti2709/support-inbox-triage):** Claude reads a support inbox, classifies and prioritizes every message, and drafts replies using only the company's own FAQ. Legal, safety and privacy tickets go to a human automatically. Includes a reusable Claude Skill, an API pipeline, and 11 passing tests with a built-in hallucination check. Its output feeds the KPI dashboard above.
 
 ## Background
 
